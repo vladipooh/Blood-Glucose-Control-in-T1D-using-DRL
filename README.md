@@ -1,5 +1,5 @@
-# AIML4Diabetes
-
+# Blood Glucose Control in T1D using Deep Reinforcement Learning (PPO)
+Part of Preprint [Evaluation of Blood Glucose Level Control in Type 1 Diabetic Patients Using Deep Reinforcement Learning](https://doi.org/10.21203/rs.3.rs-1095721/v1)
 ## For PPO-RNN
 
 Install environment
